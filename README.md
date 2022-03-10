@@ -21,6 +21,6 @@
     <a href = "mailto:edermateus6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/eder-mateus-arcenego-856106231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a> 
     
- ![Snake animation](https://github.com/edermateus1/edermateus1/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg) 
  
   </div>
