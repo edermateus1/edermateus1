@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Eder! 👋
 
 - 🔬 Desenvolvendo projetos pessoais
-- ✍🏼 Estudando linguagens para dev Front End
+- ✍🏼 Estudando linguagens para dev full stack.
 
 <div align="center">
   <a href="https://github.com/edermateus1">
